@@ -1,6 +1,6 @@
 {
-  "name": "starter-sanity",
-  "description": "Sanity.io starter template",
+  "name": "starter-vanila",
+  "description": "Vanilla OnlyHtml starter template",
   "devDependencies": {
     "@onlyhtml/onlyhtml": "^1.0.0",
     "alpinejs": "^3.3.3"

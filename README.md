@@ -1,2 +1,2 @@
-# starter-sanity
-Sanity.io starter template
+# Starter Template
+OnlyHtml starter template without any CMS configured
