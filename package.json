@@ -2,7 +2,7 @@
   "name": "starter-vanila",
   "description": "Vanilla OnlyHtml starter template",
   "devDependencies": {
-    "@onlyhtml/onlyhtml": "^1.0.0",
+    "@onlyhtml/onlyhtml": "^1.1.0",
     "alpinejs": "^3.3.3"
   }
 }
